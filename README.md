@@ -1,1 +1,4 @@
-# .git-blame-ignore-revs
+# Bulk formatting commits, skipped by `git blame` (git config blame.ignoreRevsFile .git-blame-ignore-revs).
+# Adopt rustfmt.toml and format the workspace.
+f7eb6ea9e724dbcf97af2d8162785c8063089edc
+.gitignore
